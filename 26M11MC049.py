@@ -1,0 +1,6 @@
+nums = range(1,5)
+it = iter(nums)
+print(next(it))
+print(next(it))
+print(next(it))
+print(next(it))
